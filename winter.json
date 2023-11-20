@@ -1,23 +1,23 @@
 {
   "Ads": [
     {
-      "select_main_ads": "ADMOBx",
-      "select_backup_ads":"APPLOVIN-Dx",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-D",
       "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
-      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712x",
+      "main_ads_intertitial":"ca-app-pub-3940256099942544/1033173712",
       "main_ads_natives":"",
       "main_ads_rewards":"",
       "backup_ads_natives":"",
       "backup_ads_banner":"db4d5e8718b97d78x",
-      "backup_ads_intertitial":"518cd97722c60b52x",
+      "backup_ads_intertitial":"518cd97722c60b52",
       "backup_ads_rewards":"",
       "open_ads_admob":"",
       "open_ads_alien":"",
-      "open_ads_max":"1",
+      "open_ads_max":"",
       "open_ads_wortise":"",
       "on_off_native_listview":"",
-      "interval_intertitial": 5,
-      "initialize_sdk":"107355779",
+      "interval_intertitial": 9,
+      "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -26,7 +26,7 @@
       "high_paying_keyword_5": "",
       "status_app": "0",
       "link_redirect": "https://",
-      "on_off_category":""
+      "on_off_category":"1"
     }
   ],
   "More":
