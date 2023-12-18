@@ -3,9 +3,9 @@
     {
       "select_main_ads": "FACEBOOK",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "182045071645799_182045638312409x",
-      "main_ads_intertitial":"182045071645799_182045714979068x",
-      "main_ads_natives":"182045071645799_182045824979057x",
+      "main_ads_banner": "182045071645799_182045638312409",
+      "main_ads_intertitial":"182045071645799_182045714979068",
+      "main_ads_natives":"182045071645799_182045824979057",
       "main_ads_rewards":"null",
       "backup_ads_natives":"null",
       "backup_ads_banner":"null",
